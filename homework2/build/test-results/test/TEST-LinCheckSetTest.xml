@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LinCheckSetTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-19T15:41:30" hostname="Air-Maria.Dlink" time="199.603">
+  <properties/>
+  <testcase name="stressTest" classname="LinCheckSetTest" time="11.846"/>
+  <testcase name="modelCheckingTest" classname="LinCheckSetTest" time="87.479"/>
+  <testcase name="testWithoutOptions" classname="LinCheckSetTest" time="100.278"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BaseTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-19T14:44:13" hostname="Air-Maria.Dlink" time="2.61">
+  <properties/>
+  <testcase name="testSigner$pipeline()" classname="BaseTests" time="2.263"/>
+  <testcase name="testPipeline$pipeline()" classname="BaseTests" time="0.019"/>
+  <testcase name="testExtra$pipeline()" classname="BaseTests" time="0.323"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
